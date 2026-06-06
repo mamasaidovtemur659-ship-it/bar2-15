@@ -1,0 +1,10 @@
+{
+  "name": "bar215-management",
+  "version": "1.0.0",
+  "description": "BAR 2/15 — система управления рестораном",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -p 3000 --single",
+    "dev": "npx serve . -p 3000 --single"
+  }
+}
